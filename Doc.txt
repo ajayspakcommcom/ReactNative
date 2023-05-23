@@ -1,4 +1,3 @@
-
 Install Expo Cli 
 	npm install -g expo-cli
 	check expo 
@@ -17,8 +16,7 @@ Then Open it
 
 To Run the Project 
 	npm start 
-	
-	
-	start from 33
+		
+start from 33
 
 
