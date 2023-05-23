@@ -1,0 +1,24 @@
+
+Install Expo Cli 
+	npm install -g expo-cli
+	check expo 
+		expo
+Create Project 
+	expo init projectName
+	
+	command 
+		- npm start # you can open iOS, Android, or web from here, or run them directly with the commands below.
+		- npm run android
+		- npm run ios # requires an iOS device or macOS for access to an iOS simulator
+		- npm run web
+		
+Install Expo Go App on Mobile
+Then Open it 
+
+To Run the Project 
+	npm start 
+	
+	
+	start from 29
+
+
